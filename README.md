@@ -1,4 +1,4 @@
-# Desafio Celso Lisboa para FrontEnd
+# Desafio Celso Lisboa
 
 ### Cenário
 
